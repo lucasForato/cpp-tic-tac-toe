@@ -1,0 +1,6 @@
+# ninja log v5
+5	253	7195061929574229	build.ninja	a805593e68af219d
+1	78	7195061930654613	CMakeFiles/cpp_tic_tac_toe.dir/main.cpp.obj	d120980f417dd596
+79	251	7195061932343501	cpp_tic_tac_toe.exe	c7aa7bc7ec33842d
+0	359	7195062156716603	CMakeFiles/cpp_tic_tac_toe.dir/main.cpp.obj	d120980f417dd596
+361	456	7195062157654402	cpp_tic_tac_toe.exe	c7aa7bc7ec33842d
